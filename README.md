@@ -53,3 +53,5 @@
 
 - test 3
 ![](/assets/test3.png)
+
+- api key and url you can find in **stockAppComponent.js**
