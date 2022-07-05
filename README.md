@@ -21,4 +21,4 @@
 ### Solution
 
 1. I created parent component **stockApp**, which contains 3 files
-[](/assets/parentComponent.png)
+![](/assets/parentComponent.png)
