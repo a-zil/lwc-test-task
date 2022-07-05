@@ -28,4 +28,28 @@
 
 3. pushed all components to my default org using command **Push Source to the Scratch Org**
 
-4. in salesforce created new App Page
+4. in salesforce created new App Page and called it **Stock App Page**
+![](/assets/StockAppPage.png)
+
+5. added to the page parent component
+![](/assets/AddingComponent.png)
+
+6. from App launcer open the page
+![](/assets/AppLauncher.png)
+
+7. to get data from external api need to add api to **Retrieve Site Settings**
+![](/assets/RemoteSiteSettings.png)
+
+8. and to **Content Security Policy Trusted Sites**
+![](/assets/CSPTrustedSites.png)
+
+9. now we can try to get stock details
+
+- test 1
+![](/assets/test1.png)
+
+- test 2
+![](/assets/test2.png)
+
+- test 3
+![](/assets/test3.png)
