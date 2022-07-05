@@ -20,5 +20,12 @@
 
 ### Solution
 
-1. I created parent component **stockApp**, which contains 3 files
+1. created parent component **stockApp**, which contains 3 files
 ![](/assets/parentComponent.png)
+
+2. created child component which contains 3 files
+![](/assets/childComponent.png)
+
+3. pushed all components to my default org using command **Push Source to the Scratch Org**
+
+4. in salesforce created new App Page
